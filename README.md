@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RexActor
-- 👀 I’m interested in C# programming language.
-- 🌱 I’m currently learning and developing my C# skills
-- 💞️ I’m looking to collaborate on any projects
+- 👀 Programming is my hobby
+- 🌱 I’m currently learning and developing my C# skills alongside with Phyton
+- 💞️ I’m looking to collaborate on any projects which ones could and will improve my skills in any aspect
 - 📫 How to reach me? I'm here and everywhere...
 
 <!---
