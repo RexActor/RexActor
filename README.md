@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rexactor)] [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rexactor&layout=compact)]
+[Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rexactor) [Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rexactor&layout=compact)
 
 
