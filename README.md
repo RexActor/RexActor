@@ -25,6 +25,6 @@ My passion for C# programming drives me to constantly set new goals and push my 
 
 ## Get in Touch
 
-If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me via [email](mailto:bobsters.lol@gmail.com) or find me on [LinkedIn](www.linkedin.com/in/rexactor).
+If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me via [email](mailto:bobsters.lol@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/rexactor).
 
 Let's code and innovate together
